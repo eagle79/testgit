@@ -1,6 +1,5 @@
-Adding another line to this file on master.
-So there.
+Completely changing this file on the new branch.
 
-Okay, okay... adding the requested hotfix. 
+No reason it should look like master.
 
-Jeez....
+I mean after all, that's the direction we're really trying to go, right?
