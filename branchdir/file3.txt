@@ -1,1 +1,3 @@
 New changes made locally then pushed up as a new remote branch.
+
+A new line on master.
